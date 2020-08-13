@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cotizacion-Seguros/static/css/main.aca52512.chunk.css",
+    "main.js": "/Cotizacion-Seguros/static/js/main.794300fc.chunk.js",
+    "main.js.map": "/Cotizacion-Seguros/static/js/main.794300fc.chunk.js.map",
+    "runtime-main.js": "/Cotizacion-Seguros/static/js/runtime-main.e584ac98.js",
+    "runtime-main.js.map": "/Cotizacion-Seguros/static/js/runtime-main.e584ac98.js.map",
+    "static/js/2.6dbb9dab.chunk.js": "/Cotizacion-Seguros/static/js/2.6dbb9dab.chunk.js",
+    "static/js/2.6dbb9dab.chunk.js.map": "/Cotizacion-Seguros/static/js/2.6dbb9dab.chunk.js.map",
+    "index.html": "/Cotizacion-Seguros/index.html",
+    "precache-manifest.4301f1368007ebc956cf8125d51b260e.js": "/Cotizacion-Seguros/precache-manifest.4301f1368007ebc956cf8125d51b260e.js",
+    "service-worker.js": "/Cotizacion-Seguros/service-worker.js",
+    "static/css/main.aca52512.chunk.css.map": "/Cotizacion-Seguros/static/css/main.aca52512.chunk.css.map",
+    "static/js/2.6dbb9dab.chunk.js.LICENSE.txt": "/Cotizacion-Seguros/static/js/2.6dbb9dab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e584ac98.js",
+    "static/js/2.6dbb9dab.chunk.js",
+    "static/css/main.aca52512.chunk.css",
+    "static/js/main.794300fc.chunk.js"
+  ]
+}
